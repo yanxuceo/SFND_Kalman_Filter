@@ -2,7 +2,6 @@
 
 ## This is a basic Kalman Filter demo in C++ with Lidar data.
 
-<<<<<<< HEAD
 ## Installation
 
 ### Ubuntu 
@@ -17,5 +16,3 @@ $> cmake ..
 $> make
 $> ./kalman_filter
 ```
-=======
->>>>>>> bada75f2c96af73871b3362380e9dfd84baca140
